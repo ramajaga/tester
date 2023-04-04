@@ -1,2 +1,2 @@
 const test = "test";
-alet("Hello world")
+alet("Bonjour!")
